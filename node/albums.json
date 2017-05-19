@@ -1,0 +1,557 @@
+[{
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 1,
+        "name": "《施恩座前》心心之火：尽心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireDedicated"
+    },
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 2,
+        "name": "《施恩座前》心心之火：甘心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireWilling"
+    },
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 3,
+        "name": "《施恩座前》心心之火：虚心",
+        "description": "",
+        "songCount": 10,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireModesty"
+    },
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 4,
+        "name": "《施恩座前》心心之火：齐心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireTogether"
+    },
+    {
+        "stared": false,
+        "duration": 320,
+        "size": "1.4M",
+        "id": 5,
+        "name": "《施恩座前》心心之火：雄心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireAmbition"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 700,
+        "size": "6.9M",
+        "id": 6,
+        "name": "《献上今天》精华版",
+        "description": "",
+        "songCount": 28,
+        "artistId": 24,
+        "artistName": "献上今天",
+        "albumCategoryId": 1,
+        "shortName": "dy_essentials"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 7,
+        "name": "《拥抱每一天》让生命活出精彩",
+        "description": "",
+        "songCount": 7,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 1,
+        "shortName": "ee_LiveAWonderfulLife"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 8,
+        "name": "《经动人心》圣经中的运动健儿",
+        "description": "",
+        "songCount": 10,
+        "artistId": 35,
+        "artistName": "经动人心",
+        "albumCategoryId": 1,
+        "shortName": "ba_BibleAthletes"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 9,
+        "name": "《拥抱每一天》企业家如何在职场落实基督信仰",
+        "description": "",
+        "songCount": 8,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 1,
+        "shortName": "ee_EntrepreneursImplementChristianFaith"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 10,
+        "name": "《拥抱每一天》从跨国企业家到跨文化宣教士",
+        "description": "",
+        "songCount": 8,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 1,
+        "shortName": "ee_FromEntrepreneurToMissionary"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 11,
+        "name": "《施恩座前》心心之火：开心",
+        "description": "",
+        "songCount": 10,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireHappy"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 12,
+        "name": "《施恩座前》心心之火：爱心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireLove"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 13,
+        "name": "《施恩座前》心心之火：良心",
+        "description": "",
+        "songCount": 9,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireConscience"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 14,
+        "name": "《施恩座前》心心之火：清心",
+        "description": "",
+        "songCount": 9,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FirePure"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 15,
+        "name": "《施恩座前》心心之火：专心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireConcentrate"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 16,
+        "name": "《施恩座前》心心之火：热心",
+        "description": "",
+        "songCount": 8,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FirePassion"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 270,
+        "size": "1.2M",
+        "id": 17,
+        "name": "《施恩座前》心心之火：信心",
+        "description": "",
+        "songCount": 10,
+        "artistId": 26,
+        "artistName": "施恩座前",
+        "albumCategoryId": 1,
+        "shortName": "tg_FireFaith"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 18,
+        "name": "《晨曦讲座》复活节特辑：救赎的盼望",
+        "description": "",
+        "songCount": 5,
+        "artistId": 46,
+        "artistName": "晨曦讲座",
+        "albumCategoryId": 1,
+        "shortName": "ds_RedemptionAndHope"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 19,
+        "name": "《无限飞行号》受难复活节特辑：苦难中的主耶稣",
+        "description": "",
+        "songCount": 7,
+        "artistId": 16,
+        "artistName": "无限飞行号",
+        "albumCategoryId": 1,
+        "shortName": "ib_SufferingOfJesus"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 20,
+        "name": "《无限飞行号》坐飞行号去旅行──韩国之旅",
+        "description": "",
+        "songCount": 7,
+        "artistId": 16,
+        "artistName": "无限飞行号",
+        "albumCategoryId": 1,
+        "shortName": "ib_KoreaTrip"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 860,
+        "size": "6.9M",
+        "id": 21,
+        "name": "真理与柱石",
+        "description": "",
+        "songCount": 53,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "tp"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 22,
+        "name": "《生命的四季》新春布道会特辑：你明白吗？",
+        "description": "",
+        "songCount": 3,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_DoYouUnderstand"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 23,
+        "name": "《生命的四季》跨年退修会：回顾‧展望‧等候",
+        "description": "",
+        "songCount": 3,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_Retreat"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 24,
+        "name": "《生命的四季》感恩特辑：如此回味",
+        "description": "",
+        "songCount": 5,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_Thanksgiving"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 25,
+        "name": "《生命的四季》生命第五季──复活主与我",
+        "description": "",
+        "songCount": 2,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_LordAndMe"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 26,
+        "name": "《生命的四季》退修会：以马内利",
+        "description": "",
+        "songCount": 3,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_Xmas"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 27,
+        "name": "《中国晨曦》教会问题与教会健康",
+        "description": "",
+        "songCount": 15,
+        "artistId": 46,
+        "artistName": "晨曦讲座",
+        "albumCategoryId": 1,
+        "shortName": "dc_ChurchProblemsAndHealth"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 28,
+        "name": "《佳美脚踪》傈僳使徒",
+        "description": "",
+        "songCount": 4,
+        "artistId": 28,
+        "artistName": "佳美脚踪",
+        "albumCategoryId": 1,
+        "shortName": "bm_LisuApostle"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 29,
+        "name": "《生命的四季》信‧复活",
+        "description": "",
+        "songCount": 5,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_Easter"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 30,
+        "name": "《经动人心》广播剧：鱼腹中的约拿",
+        "description": "",
+        "songCount": 3,
+        "artistId": 35,
+        "artistName": "经动人心",
+        "albumCategoryId": 1,
+        "shortName": "ba_Jonah"
+    }
+
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 31,
+        "name": "《经动人心》广播剧：民族女英雄──以斯帖",
+        "description": "",
+        "songCount": 4,
+        "artistId": 35,
+        "artistName": "经动人心",
+        "albumCategoryId": 1,
+        "shortName": "ba_Esther"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 32,
+        "name": "《佳美脚踪》戴德生",
+        "description": "",
+        "songCount": 5,
+        "artistId": 28,
+        "artistName": "佳美脚踪",
+        "albumCategoryId": 1,
+        "shortName": "bm_HudsonTaylor"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 860,
+        "size": "6,9M",
+        "id": 33,
+        "name": "《生命的四季》专题讲座：清明节，不纠结！",
+        "description": "",
+        "songCount": 10,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "ns_ChingMing"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 34,
+        "name": "生命之源──有一位神讲座",
+        "description": "",
+        "songCount": 8,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 1,
+        "shortName": "SourceOfLife"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 35,
+        "name": "《中国晨曦》从哥林多前书看健康教会",
+        "description": "",
+        "songCount": 15,
+        "artistId": 46,
+        "artistName": "晨曦讲座",
+        "albumCategoryId": 1,
+        "shortName": "dc_HealthyChurchFromICor"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 36,
+        "name": "《中国晨曦》培灵奋兴会：将心归我",
+        "description": "",
+        "songCount": 10,
+        "artistId": 46,
+        "artistName": "晨曦讲座",
+        "albumCategoryId": 1,
+        "shortName": "dc_GiveMeYourHeart"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 37,
+        "name": "《中国晨曦》对抗异端",
+        "description": "",
+        "songCount": 15,
+        "artistId": 46,
+        "artistName": "晨曦讲座",
+        "albumCategoryId": 1,
+        "shortName": "dc_AgainstHeresy"
+    }
+]
