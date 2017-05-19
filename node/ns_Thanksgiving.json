@@ -4,59 +4,49 @@
 		"downUrl": "http://txly2.net/ly/audio/ns_Thanksgiving/ns_Thanksgiving01.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 24,
 		"albumName": "《生命的四季》感恩特辑：如此回味",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Thanksgiving/ns_Thanksgiving01.mp3",
-		"id": 24000016
+		"id": 24000215
 	},
 	{
 		"albumtitle": "《生命的四季》感恩特辑：如此回味(02)",
 		"downUrl": "http://txly2.net/ly/audio/ns_Thanksgiving/ns_Thanksgiving02.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 24,
 		"albumName": "《生命的四季》感恩特辑：如此回味",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Thanksgiving/ns_Thanksgiving02.mp3",
-		"id": 24000017
+		"id": 24000216
 	},
 	{
 		"albumtitle": "《生命的四季》感恩特辑：如此回味(03)",
 		"downUrl": "http://txly2.net/ly/audio/ns_Thanksgiving/ns_Thanksgiving03.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 24,
 		"albumName": "《生命的四季》感恩特辑：如此回味",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Thanksgiving/ns_Thanksgiving03.mp3",
-		"id": 24000018
+		"id": 24000217
 	},
 	{
 		"albumtitle": "《生命的四季》感恩特辑：如此回味(04)",
 		"downUrl": "http://txly2.net/ly/audio/ns_Thanksgiving/ns_Thanksgiving04.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 24,
 		"albumName": "《生命的四季》感恩特辑：如此回味",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Thanksgiving/ns_Thanksgiving04.mp3",
-		"id": 24000019
+		"id": 24000218
 	},
 	{
 		"albumtitle": "《生命的四季》感恩特辑：如此回味(05)",
 		"downUrl": "http://txly2.net/ly/audio/ns_Thanksgiving/ns_Thanksgiving05.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 24,
 		"albumName": "《生命的四季》感恩特辑：如此回味",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Thanksgiving/ns_Thanksgiving05.mp3",
-		"id": 24000020
+		"id": 24000219
 	}
 ]

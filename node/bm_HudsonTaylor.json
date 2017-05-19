@@ -5,12 +5,10 @@
 		"downUrl": "http://txly2.net/ly/audio/bm_HudsonTaylor/bm_HudsonTaylor01.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 28,
-		"artistName": "佳美脚踪",
 		"albumId": 32,
 		"albumName": "《佳美脚踪》戴德生",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/bm_HudsonTaylor/bm_HudsonTaylor01.mp3",
-		"id": 32000095
+		"id": 32000156
 	},
 	{
 		"albumtitle": "《佳美脚踪》戴德生(02)",
@@ -18,12 +16,10 @@
 		"downUrl": "http://txly2.net/ly/audio/bm_HudsonTaylor/bm_HudsonTaylor02.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 28,
-		"artistName": "佳美脚踪",
 		"albumId": 32,
 		"albumName": "《佳美脚踪》戴德生",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/bm_HudsonTaylor/bm_HudsonTaylor02.mp3",
-		"id": 32000096
+		"id": 32000157
 	},
 	{
 		"albumtitle": "《佳美脚踪》戴德生(03)",
@@ -31,12 +27,10 @@
 		"downUrl": "http://txly2.net/ly/audio/bm_HudsonTaylor/bm_HudsonTaylor03.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 28,
-		"artistName": "佳美脚踪",
 		"albumId": 32,
 		"albumName": "《佳美脚踪》戴德生",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/bm_HudsonTaylor/bm_HudsonTaylor03.mp3",
-		"id": 32000097
+		"id": 32000158
 	},
 	{
 		"albumtitle": "《佳美脚踪》戴德生(04)",
@@ -44,12 +38,10 @@
 		"downUrl": "http://txly2.net/ly/audio/bm_HudsonTaylor/bm_HudsonTaylor04.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 28,
-		"artistName": "佳美脚踪",
 		"albumId": 32,
 		"albumName": "《佳美脚踪》戴德生",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/bm_HudsonTaylor/bm_HudsonTaylor04.mp3",
-		"id": 32000098
+		"id": 32000159
 	},
 	{
 		"albumtitle": "《佳美脚踪》戴德生(05)",
@@ -57,11 +49,9 @@
 		"downUrl": "http://txly2.net/ly/audio/bm_HudsonTaylor/bm_HudsonTaylor05.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 28,
-		"artistName": "佳美脚踪",
 		"albumId": 32,
 		"albumName": "《佳美脚踪》戴德生",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/bm_HudsonTaylor/bm_HudsonTaylor05.mp3",
-		"id": 32000099
+		"id": 32000160
 	}
 ]

@@ -5,12 +5,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Esther/ba_Esther01.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 31,
 		"albumName": "《经动人心》广播剧：民族女英雄──以斯帖",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Esther/ba_Esther01.mp3",
-		"id": 31000047
+		"id": 31000253
 	},
 	{
 		"albumtitle": "《经动人心》广播剧：民族女英雄──以斯帖(02)",
@@ -18,12 +16,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Esther/ba_Esther02.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 31,
 		"albumName": "《经动人心》广播剧：民族女英雄──以斯帖",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Esther/ba_Esther02.mp3",
-		"id": 31000048
+		"id": 31000254
 	},
 	{
 		"albumtitle": "《经动人心》广播剧：民族女英雄──以斯帖(03)",
@@ -31,12 +27,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Esther/ba_Esther03.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 31,
 		"albumName": "《经动人心》广播剧：民族女英雄──以斯帖",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Esther/ba_Esther03.mp3",
-		"id": 31000049
+		"id": 31000255
 	},
 	{
 		"albumtitle": "《经动人心》广播剧：民族女英雄──以斯帖(04)",
@@ -44,11 +38,9 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Esther/ba_Esther04.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 31,
 		"albumName": "《经动人心》广播剧：民族女英雄──以斯帖",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Esther/ba_Esther04.mp3",
-		"id": 31000050
+		"id": 31000256
 	}
 ]

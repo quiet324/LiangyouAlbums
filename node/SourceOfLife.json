@@ -5,12 +5,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife01.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife01.mp3",
-		"id": 34000085
+		"id": 34000107
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(02)",
@@ -18,12 +16,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife02.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife02.mp3",
-		"id": 34000086
+		"id": 34000108
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(03)",
@@ -31,12 +27,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife03.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife03.mp3",
-		"id": 34000087
+		"id": 34000109
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(04)",
@@ -44,12 +38,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife04.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife04.mp3",
-		"id": 34000088
+		"id": 34000110
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(05)",
@@ -57,12 +49,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife05.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife05.mp3",
-		"id": 34000089
+		"id": 34000111
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(06)",
@@ -70,12 +60,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife06.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife06.mp3",
-		"id": 34000090
+		"id": 34000112
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(07)",
@@ -83,12 +71,10 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife07.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife07.mp3",
-		"id": 34000091
+		"id": 34000113
 	},
 	{
 		"albumtitle": "生命之源──有一位神讲座(08)",
@@ -96,11 +82,9 @@
 		"downUrl": "http://txly2.net/ly/audio/SourceOfLife/SourceOfLife08.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 34,
 		"albumName": "生命之源──有一位神讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/SourceOfLife/SourceOfLife08.mp3",
-		"id": 34000092
+		"id": 34000114
 	}
 ]

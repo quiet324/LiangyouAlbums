@@ -5,12 +5,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ns_Xmas/ns_Xmas01.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 26,
 		"albumName": "《生命的四季》退修会：以马内利",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Xmas/ns_Xmas01.mp3",
-		"id": 26000029
+		"id": 26000115
 	},
 	{
 		"albumtitle": "《生命的四季》退修会：以马内利(02)",
@@ -18,12 +16,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ns_Xmas/ns_Xmas02.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 26,
 		"albumName": "《生命的四季》退修会：以马内利",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Xmas/ns_Xmas02.mp3",
-		"id": 26000030
+		"id": 26000116
 	},
 	{
 		"albumtitle": "《生命的四季》退修会：以马内利(03)",
@@ -31,11 +27,9 @@
 		"downUrl": "http://txly2.net/ly/audio/ns_Xmas/ns_Xmas03.mp3",
 		"duration": 3560,
 		"size": "28.5M",
-		"artistId": 0,
-		"artistName": "",
 		"albumId": 26,
 		"albumName": "《生命的四季》退修会：以马内利",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ns_Xmas/ns_Xmas03.mp3",
-		"id": 26000031
+		"id": 26000117
 	}
 ]

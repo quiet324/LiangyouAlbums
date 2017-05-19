@@ -68,27 +68,20 @@ albums.forEach(function(album) {
                     // if (audio.time === today) {
                     var file = album.shortName + '/' + fileName;
 
-                    if (!fs.existsSync(file)) { //
+                    if (true) { //!fs.existsSync(file)
 
                         console.log(moment().format('MMMM Do YYYY, h:mm:ss a') + "downloading..." + file);
 
-                        var data = require('child_process').execFileSync('curl', ['--silent', '-L', audio.downUrl]);
+                        // var data = require('child_process').execFileSync('curl', ['--silent', '-L', audio.downUrl]);
 
                         mkdirp.sync(album.shortName);
 
-                        fs.writeFileSync(album.shortName + '/' + fileName, data);
+                        // fs.writeFileSync(album.shortName + '/' + fileName, data);
 
-                        // var commitTag = album.shortName + audio.time
                         var commitTag = "170519";
-
-
-                        // var year = moment().format('YYYY');
-                        // var week = moment().format('WW');
 
                         audio.duration = album.duration;
                         audio.size = album.size;
-                        audio.artistId = album.artistId;
-                        audio.artistName = album.artistName;
                         audio.albumId = album.id;
                         audio.albumName = album.name;
                         audio.path = "https://rawcdn.githack.com/quiet324/LiangyouAlbums" + "/" + commitTag + "/" + album.shortName + "/" + fileName;
@@ -111,9 +104,9 @@ albums.forEach(function(album) {
 
             var jsonfile = './' + album.shortName + ".json";
 
-            if (!fs.existsSync(jsonfile)) { //
-                fs.writeFileSync(jsonfile, JSON.stringify(audios, null, '\t'));
-            }
+            // if (!fs.existsSync(jsonfile)) { //
+            fs.writeFileSync(jsonfile, JSON.stringify(audios, null, '\t'));
+            // }
 
 
             // }

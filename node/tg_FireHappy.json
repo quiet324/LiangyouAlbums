@@ -2,12 +2,24 @@
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(01)",
 		"title": "挽手：个人领导风格",
-		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy01.mp3"
+		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy01.mp3",
+		"duration": 270,
+		"size": "1.2M",
+		"albumId": 11,
+		"albumName": "《施恩座前》心心之火：开心",
+		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy01.mp3",
+		"id": 11000203
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(02)",
 		"title": "挽手：最令人头痛的同工类型",
-		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy02.mp3"
+		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy02.mp3",
+		"duration": 270,
+		"size": "1.2M",
+		"albumId": 11,
+		"albumName": "《施恩座前》心心之火：开心",
+		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy02.mp3",
+		"id": 11000204
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(03)",
@@ -15,12 +27,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy03.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy03.mp3",
-		"id": 11000021
+		"id": 11000205
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(04)",
@@ -28,12 +38,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy04.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy04.mp3",
-		"id": 11000022
+		"id": 11000206
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(05)",
@@ -41,12 +49,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy05.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy05.mp3",
-		"id": 11000023
+		"id": 11000207
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(06)",
@@ -54,12 +60,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy06.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy06.mp3",
-		"id": 11000024
+		"id": 11000208
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(07)",
@@ -67,12 +71,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy07.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy07.mp3",
-		"id": 11000025
+		"id": 11000209
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(08)",
@@ -80,12 +82,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy08.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy08.mp3",
-		"id": 11000026
+		"id": 11000210
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(09)",
@@ -93,12 +93,10 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy09.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy09.mp3",
-		"id": 11000027
+		"id": 11000211
 	},
 	{
 		"albumtitle": "《施恩座前》心心之火：开心(10)",
@@ -106,11 +104,9 @@
 		"downUrl": "http://txly2.net/ly/audio/tg_FireHappy/tg_FireHappy10.mp3",
 		"duration": 270,
 		"size": "1.2M",
-		"artistId": 26,
-		"artistName": "施恩座前",
 		"albumId": 11,
 		"albumName": "《施恩座前》心心之火：开心",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/tg_FireHappy/tg_FireHappy10.mp3",
-		"id": 11000028
+		"id": 11000212
 	}
 ]

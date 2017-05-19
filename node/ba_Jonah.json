@@ -5,12 +5,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Jonah/ba_Jonah01.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 30,
 		"albumName": "《经动人心》广播剧：鱼腹中的约拿",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Jonah/ba_Jonah01.mp3",
-		"id": 30000071
+		"id": 30000250
 	},
 	{
 		"albumtitle": "《经动人心》广播剧：鱼腹中的约拿(02)",
@@ -18,12 +16,10 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Jonah/ba_Jonah02.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 30,
 		"albumName": "《经动人心》广播剧：鱼腹中的约拿",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Jonah/ba_Jonah02.mp3",
-		"id": 30000072
+		"id": 30000251
 	},
 	{
 		"albumtitle": "《经动人心》广播剧：鱼腹中的约拿(03)",
@@ -31,11 +27,9 @@
 		"downUrl": "http://txly2.net/ly/audio/ba_Jonah/ba_Jonah03.mp3",
 		"duration": 1760,
 		"size": "14.1M",
-		"artistId": 35,
-		"artistName": "经动人心",
 		"albumId": 30,
 		"albumName": "《经动人心》广播剧：鱼腹中的约拿",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/170519/ba_Jonah/ba_Jonah03.mp3",
-		"id": 30000073
+		"id": 30000252
 	}
 ]
