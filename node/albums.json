@@ -696,4 +696,38 @@
     }
 
 
+
+    ,
+    {
+        "stared": false,
+        "duration": 860,
+        "size": "6.9M",
+        "id": 47,
+        "name": "《生活无国界》迎战压力──大学生精神健康资讯",
+        "description": "",
+        "songCount": 9,
+        "artistId": 8,
+        "artistName": "生活无国界",
+        "albumCategoryId": 3,
+        "shortName": "gv_AgainstPressure"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 48,
+        "name": "《幸福满家园》6A子女教育原则",
+        "description": "",
+        "songCount": 5,
+        "artistId": 1,
+        "artistName": "幸福满家园",
+        "albumCategoryId": 3,
+        "shortName": "bf_SixAPrinciplesForTeachingKids"
+    }
+
+
+
 ]

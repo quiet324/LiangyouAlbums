@@ -85,7 +85,7 @@ albums.forEach(function(album) {
                         audio.albumId = album.id;
                         audio.albumName = album.name;
                         audio.path = "https://rawcdn.githack.com/quiet324/LiangyouAlbums" + "/" + commitTag + "/node/" + album.shortName + "/" + fileName;
-                        audio.id = album.id * 1000000 + (dbindex++);
+                        audio.id = album.id * 1000000 + 888800 + (dbindex++);
 
                         // fs.writeFileSync("./" + album.shortName + ".json", JSON.stringify(audio, null, '\t'));
 
