@@ -554,4 +554,146 @@
         "albumCategoryId": 1,
         "shortName": "dc_AgainstHeresy"
     }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 38,
+        "name": "《幸福满家园》爱长者特辑",
+        "description": "",
+        "songCount": 4,
+        "artistId": 1,
+        "artistName": "幸福满家园",
+        "albumCategoryId": 2,
+        "shortName": "bf_LoveElderly"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 39,
+        "name": "《空中辅导》产前产后抑郁症",
+        "description": "",
+        "songCount": 4,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 2,
+        "shortName": "cc_PrenatalPostnatalDepression"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 40,
+        "name": "《空中辅导》辅导基础概念",
+        "description": "",
+        "songCount": 5,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 2,
+        "shortName": "cc_BasicConceptOfCounseling"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 100,
+        "size": "350KB",
+        "id": 41,
+        "name": "健康资讯一分钟",
+        "description": "",
+        "songCount": 44,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 2,
+        "shortName": "ly_OneMinuteHealthInformation"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 42,
+        "name": "《拥抱每一天》爱的沟通讲座：沟通红绿灯──如何做个沟通高手？",
+        "description": "",
+        "songCount": 6,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 2,
+        "shortName": "ee_Communication"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 43,
+        "name": "《空中辅导》精神健康",
+        "description": "",
+        "songCount": 14,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 2,
+        "shortName": "cc_MentalHealth"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 44,
+        "name": "《i关怀心磁场》真我大看台",
+        "description": "",
+        "songCount": 20,
+        "artistId": 14,
+        "artistName": "关怀心磁场",
+        "albumCategoryId": 2,
+        "shortName": "im_RealMe"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 45,
+        "name": "《拥抱每一天》爬出忧郁的深渊──精神健康资讯",
+        "description": "",
+        "songCount": 4,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 2,
+        "shortName": "ee_ClimbOutOfDepression"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 46,
+        "name": "《拥抱每一天》飞越忧郁的漩涡",
+        "description": "",
+        "songCount": 12,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 2,
+        "shortName": "ee_JumpOutOfDepression"
+    }
+
+
 ]

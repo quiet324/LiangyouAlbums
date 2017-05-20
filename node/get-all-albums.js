@@ -68,23 +68,23 @@ albums.forEach(function(album) {
                     // if (audio.time === today) {
                     var file = album.shortName + '/' + fileName;
 
-                    if (true) { //!fs.existsSync(file)
+                    if (!fs.existsSync(file)) { //
 
                         console.log(moment().format('MMMM Do YYYY, h:mm:ss a') + "downloading..." + file);
 
-                        // var data = require('child_process').execFileSync('curl', ['--silent', '-L', audio.downUrl]);
+                        var data = require('child_process').execFileSync('curl', ['--silent', '-L', audio.downUrl]);
 
                         mkdirp.sync(album.shortName);
 
-                        // fs.writeFileSync(album.shortName + '/' + fileName, data);
+                        fs.writeFileSync(album.shortName + '/' + fileName, data);
 
-                        var commitTag = "170519";
+                        var commitTag = "170520";
 
                         audio.duration = album.duration;
                         audio.size = album.size;
                         audio.albumId = album.id;
                         audio.albumName = album.name;
-                        audio.path = "https://rawcdn.githack.com/quiet324/LiangyouAlbums" + "/" + commitTag + "/" + album.shortName + "/" + fileName;
+                        audio.path = "https://rawcdn.githack.com/quiet324/LiangyouAlbums" + "/" + commitTag + "/node/" + album.shortName + "/" + fileName;
                         audio.id = album.id * 1000000 + (dbindex++);
 
                         // fs.writeFileSync("./" + album.shortName + ".json", JSON.stringify(audio, null, '\t'));
@@ -104,9 +104,9 @@ albums.forEach(function(album) {
 
             var jsonfile = './' + album.shortName + ".json";
 
-            // if (!fs.existsSync(jsonfile)) { //
-            fs.writeFileSync(jsonfile, JSON.stringify(audios, null, '\t'));
-            // }
+            if (!fs.existsSync(jsonfile)) { //
+                fs.writeFileSync(jsonfile, JSON.stringify(audios, null, '\t'));
+            }
 
 
             // }
