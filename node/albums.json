@@ -793,6 +793,320 @@
     }
 
 
+    ,
+    {
+        "stared": false,
+        "duration": 860,
+        "size": "6.9M",
+        "id": 53,
+        "name": "《生活无国界》解读真爱密码",
+        "description": "",
+        "songCount": 5,
+        "artistId": 8,
+        "artistName": "生活无国界",
+        "albumCategoryId": 5,
+        "shortName": "gv_LovePassword"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 54,
+        "name": "《空中辅导》活出彩虹",
+        "description": "",
+        "songCount": 9,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 5,
+        "shortName": "cc_LiveOutTheRainbow"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 55,
+        "name": "《恩慰心语──辅导之声》同性恋",
+        "description": "",
+        "songCount": 4,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 5,
+        "shortName": "cr_HomosexualLove"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 56,
+        "name": "《恋爱季节》恋爱之道",
+        "description": "",
+        "songCount": 5,
+        "artistId": 19,
+        "artistName": "恋爱季节",
+        "albumCategoryId": 5,
+        "shortName": "se_TheWayOfLove"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 57,
+        "name": "《空中辅导》交友、恋爱、婚姻",
+        "description": "",
+        "songCount": 7,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 5,
+        "shortName": "cc_DatingLoveMarriage"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 58,
+        "name": "《空中辅导》空中夫妻营2015",
+        "description": "",
+        "songCount": 10,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_CouplesCampB"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 59,
+        "name": "《幸福满家园》21世纪的教养秘诀",
+        "description": "",
+        "songCount": 6,
+        "artistId": 1,
+        "artistName": "幸福满家园",
+        "albumCategoryId": 6,
+        "shortName": "bf_ParentingTips"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 860,
+        "size": "6.9M",
+        "id": 60,
+        "name": "《生命的四季》优美人生：爱之篇",
+        "description": "",
+        "songCount": 10,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 6,
+        "shortName": "ns_Love"
+    }
+
+
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 61,
+        "name": "《拥抱每一天》家庭成长讲座：母亲在家庭成长中当扮演的角色",
+        "description": "",
+        "songCount": 10,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 6,
+        "shortName": "ee_MotherRole"
+    }
+
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 62,
+        "name": "《拥抱每一天》家庭成长讲座：父亲在家庭成长中当扮演的角色",
+        "description": "",
+        "songCount": 10,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 6,
+        "shortName": "ee_FatherRole"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 63,
+        "name": "《空中辅导》异梦同床",
+        "description": "",
+        "songCount": 7,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_SameBedDifferentDreams"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 64,
+        "name": "《空中辅导》如何教养孩童",
+        "description": "",
+        "songCount": 4,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_ParentingKids"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 65,
+        "name": "《空中辅导》基督徒的婚姻",
+        "description": "",
+        "songCount": 11,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_ChristianMarriage"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 66,
+        "name": "《空中辅导》空中夫妻营2013：爱‧我愿意",
+        "description": "",
+        "songCount": 10,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_CouplesCampA"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 67,
+        "name": "《幸福满家园》隔代教养面面观",
+        "description": "",
+        "songCount": 5,
+        "artistId": 1,
+        "artistName": "幸福满家园",
+        "albumCategoryId": 6,
+        "shortName": "bf_GrandparentsAspects"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 68,
+        "name": "智慧有情人──相爱到白头的秘诀",
+        "description": "",
+        "songCount": 9,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 6,
+        "shortName": "WisdomLovers"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 69,
+        "name": "《幸福满家园》家庭系列：成功婚姻",
+        "description": "",
+        "songCount": 10,
+        "artistId": 1,
+        "artistName": "幸福满家园",
+        "albumCategoryId": 6,
+        "shortName": "bf_SuccessfulMarriage"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3600,
+        "size": "29M",
+        "id": 70,
+        "name": "让爱住你家",
+        "description": "",
+        "songCount": 1,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 6,
+        "shortName": "LoveInYourFamily"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 71,
+        "name": "《空中辅导》千头万绪“家”中来",
+        "description": "",
+        "songCount": 9,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 6,
+        "shortName": "cc_FromHome"
+    }
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 72,
+        "name": "做个棒父母──从幼儿到青少年期父母的角色",
+        "description": "",
+        "songCount": 8,
+        "artistId": 0,
+        "artistName": "",
+        "albumCategoryId": 6,
+        "shortName": "BeGoodParents"
+    }
 
 
 ]
