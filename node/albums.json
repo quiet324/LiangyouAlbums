@@ -730,4 +730,69 @@
 
 
 
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 49,
+        "name": "《拥抱每一天》职场生涯纵横谈",
+        "description": "",
+        "songCount": 10,
+        "artistId": 29,
+        "artistName": "拥抱每一天",
+        "albumCategoryId": 4,
+        "shortName": "ee_CareerTalk"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 3560,
+        "size": "28.5M",
+        "id": 50,
+        "name": "《空中辅导》职场系列：基督徒工作观",
+        "description": "",
+        "songCount": 12,
+        "artistId": 15,
+        "artistName": "空中辅导",
+        "albumCategoryId": 4,
+        "shortName": "cc_WorkEthicOfChristians"
+    }
+
+
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 51,
+        "name": "《i关怀心磁场》职场应知的概念性常识（1）",
+        "description": "",
+        "songCount": 5,
+        "artistId": 14,
+        "artistName": "i关怀心磁场",
+        "albumCategoryId": 4,
+        "shortName": "im_KnowledgeOfWorkplaceI"
+    }
+
+    ,
+    {
+        "stared": false,
+        "duration": 1760,
+        "size": "14.1M",
+        "id": 52,
+        "name": "《i关怀心磁场》职场应知的概念性常识（2）",
+        "description": "",
+        "songCount": 5,
+        "artistId": 14,
+        "artistName": "i关怀心磁场",
+        "albumCategoryId": 4,
+        "shortName": "im_KnowledgeOfWorkplaceII"
+    }
+
+
+
+
 ]

@@ -78,7 +78,7 @@ albums.forEach(function(album) {
 
                         fs.writeFileSync(album.shortName + '/' + fileName, data);
 
-                        var commitTag = "170520";
+                        var commitTag = "1705203";
 
                         audio.duration = album.duration;
                         audio.size = album.size;
