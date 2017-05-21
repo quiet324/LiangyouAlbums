@@ -2,17 +2,35 @@
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(01)",
 		"title": "婚姻五大威胁（1）",
-		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB01.mp3"
+		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB01.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"albumId": 58,
+		"albumName": "《空中辅导》空中夫妻营2015",
+		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB01.mp3",
+		"id": 58889207
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(02)",
 		"title": "婚姻五大威胁（2）",
-		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB02.mp3"
+		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB02.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"albumId": 58,
+		"albumName": "《空中辅导》空中夫妻营2015",
+		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB02.mp3",
+		"id": 58889208
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(03)",
 		"title": "婚姻五大威胁（3）",
-		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB03.mp3"
+		"downUrl": "http://txly2.net/ly/audio/cc_CouplesCampB/cc_CouplesCampB03.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"albumId": 58,
+		"albumName": "《空中辅导》空中夫妻营2015",
+		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB03.mp3",
+		"id": 58889209
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(04)",
@@ -23,7 +41,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB04.mp3",
-		"id": 58888801
+		"id": 58889210
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(05)",
@@ -34,7 +52,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB05.mp3",
-		"id": 58888802
+		"id": 58889211
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(06)",
@@ -45,7 +63,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB06.mp3",
-		"id": 58888803
+		"id": 58889212
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(07)",
@@ -56,7 +74,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB07.mp3",
-		"id": 58888804
+		"id": 58889213
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(08)",
@@ -67,7 +85,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB08.mp3",
-		"id": 58888805
+		"id": 58889214
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(09)",
@@ -78,7 +96,7 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB09.mp3",
-		"id": 58888806
+		"id": 58889215
 	},
 	{
 		"albumtitle": "《空中辅导》空中夫妻营2015(10)",
@@ -89,6 +107,6 @@
 		"albumId": 58,
 		"albumName": "《空中辅导》空中夫妻营2015",
 		"path": "https://rawcdn.githack.com/quiet324/LiangyouAlbums/1705203/node/cc_CouplesCampB/cc_CouplesCampB10.mp3",
-		"id": 58888807
+		"id": 58889216
 	}
 ]
